@@ -88,7 +88,7 @@ nav {
 @media (max-width: 1000px) {
     .wow{
         padding-top: 22%;
-        color: gold;
+        color: white;
     }
     #about{
         background-image: url('1.jpg');
