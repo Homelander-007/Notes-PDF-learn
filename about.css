@@ -83,13 +83,12 @@ nav {
 .wow{
     padding-top: 10%;
     padding-left: 5%;
-    color: white;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 700px) {
     .wow{
         padding-top: 22%;
-
+        color: white;
     }
     #about{
         background-image: url('1.jpg');
